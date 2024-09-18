@@ -1,0 +1,3 @@
+[submodule "ClimaMonitor_Frontend"]
+	path = ClimaMonitor_Frontend
+	url = https://github.com/m-u-l-a-s/ClimaMonitor_Frontend
