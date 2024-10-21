@@ -53,7 +53,7 @@ Confira o Mínimo Produto Viável (Minimum Viable Product - MVP) da Sprint 1 no 
 | Sprint | Previsão de entrega | Status                            |
 | :----: | :-----------------: | :-------------------------------- |
 |   01   |     29/09/2024      | :white_check_mark: Concluído      |
-|   02   |     20/10/2024      | :construction: Em desenvolvimento |
+|   02   |     20/10/2024      | :white_check_mark: Concluído      |
 |   03   |     10/11/2024      | :construction: Em desenvolvimento |
 |   04   |     01/12/2024      | :construction: Em desenvolvimento |
 
