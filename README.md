@@ -7,7 +7,8 @@
 
 <span id="topo">
 <p align="center">
-    <a href="#sobre">Sobre</a>  |  
+    <a href="#sobre">Sobre</a>  | 
+    <a href="#manualusuario">Manual do Usuário</a>  | 
     <a href="#demonstracao">Demonstração</a>  |  
     <a href="#sprints">Entrega das Sprints</a>  |  
     <a href="#backlogs">Backlog do Produto</a>  |  
@@ -32,7 +33,19 @@ Além disso, o aplicativo será projetado para funcionar mesmo em áreas com bai
 
 > _Projeto conduzido de acordo com a metodologia ágil SCRUM, que garante uma abordagem flexível e colaborativa, com entregas contínuas e foco na adaptação às necessidades dos usuários. Cada Sprint permitirá que funcionalidades como cadastro de usuários e pontos de monitoramento, dashboards de variação climática, relatórios consolidados e sistemas de alertas sejam implementados e melhorados progressivamente._
 
-:pushpin: Status do Projeto: **Em desenvolvimento** 🚧
+:pushpin: Status do Projeto: **Concluído** :white_check_mark:
+
+<span id="manualusuario">
+
+<br>
+
+## :book: Manual do Usuário
+
+O aplicativo ClimaMonitor disponibiliza seu Manual do Usuário para auxiliar os usuários no uso das funcionalidades do sistema de forma eficiente. Para fazer o download do manual, clique no link abaixo:
+
+<a href='/docs/img/Manual_Usuario_ClimaMonitor.pdf'>Link do Manual do Usuário</a>
+
+<br>
 
 <span id="demonstracao">
 
@@ -42,7 +55,7 @@ Além disso, o aplicativo será projetado para funcionar mesmo em áreas com bai
 
 Confira o Mínimo Produto Viável (Minimum Viable Product - MVP) da Sprint 1 no link abaixo:
 
-[:film_strip: Link para vídeo no YouTube](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
+[Link para vídeo no YouTube](https://www.youtube.com/watch?v=cXbXq8ZWd0A).
 
 <br>
 
@@ -50,12 +63,12 @@ Confira o Mínimo Produto Viável (Minimum Viable Product - MVP) da Sprint 1 no 
 
 ### :spiral_calendar: Entrega das Sprints
 
-| Sprint | Previsão de entrega | Status                            |
-| :----: | :-----------------: | :-------------------------------- |
-|   01   |     29/09/2024      | :white_check_mark: Concluído      |
-|   02   |     20/10/2024      | :white_check_mark: Concluído      |
-|   03   |     10/11/2024      | :construction: Em desenvolvimento |
-|   04   |     01/12/2024      | :construction: Em desenvolvimento |
+| Sprint | Previsão de entrega | Status                       |
+| :----: | :-----------------: | :--------------------------- |
+|   01   |     29/09/2024      | :white_check_mark: Concluído |
+|   02   |     20/10/2024      | :white_check_mark: Concluído |
+|   03   |     10/11/2024      | :white_check_mark: Concluído |
+|   04   |     01/12/2024      | :white_check_mark: Concluído |
 
 → [Voltar ao topo](#topo)
 
